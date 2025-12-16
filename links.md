@@ -31,3 +31,9 @@ adb shell pm disable-user --user 0 com.google.android.inputmethod.latin
 > 🔐 **Note**: While not a Tor-level anonymity tool, Cromite significantly reduces tracking compared to stock Chrome or manufacturer browsers.
 
 ---
+
+## Replace Telegram with a Third-Party Client
+
+**Recommended**: [**Nagram**](https://github.com/NextAlone/Nagram)
+
+- Nagram is a third-party Telegram client based on NekoX with some modifications.
