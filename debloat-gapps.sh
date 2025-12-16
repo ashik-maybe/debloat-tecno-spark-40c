@@ -27,7 +27,7 @@ echo -e "${GREEN}Device detected.${NC}"
 # com.google.android.apps.inputmethod.latin (Gboard)
 # — keep unless you have another keyboard
 GOOGLE_PACKAGES=(
-    com.google.android.apps.messaging
+    # com.google.android.apps.messaging
     com.google.android.apps.restore
     com.google.android.apps.googleassistant
     com.android.chrome
